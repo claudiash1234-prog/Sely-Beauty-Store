@@ -190,6 +190,5 @@ Por eso te ofrecemos una línea completa de productos de maquillaje de alta cali
 </html>     
 </body>
 </html>>
- <body
- style="background-color: rgb(250, 189, 250);"     
+ 
 
