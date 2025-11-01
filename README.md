@@ -25,11 +25,13 @@ Por eso te ofrecemos una línea completa de productos de maquillaje de alta cali
 <p>📍 Visítanos o haz tu pedido en línea.</p>
 <p>📱 Síguenos en redes: @SelyBeautyStore</p>
 
-    <a href="Mascara de pestañas.html">Mascara de pestañas</a> 
-    <a href="Labiales.html">Labiales selybeautystore</a> 
-    <a href="Sombras.html">Sombras selybeautystore</a> 
-    <a href="Maquillaje.html">Maquillaje profesional selybeautystore</a> 
-    <a href="sellador.html">Sellador selybeautystore</a>
+  <a href="sely beauty store.html">sely beauty store</a> |
+    <a href="Mascara de pestañas.html">Mascara de pestañas</a> |
+    <a href="Labiales.html">Labiales sely beauty store</a> |
+    <a href="Sombras.html">Sombras sely beauty store</a> |
+    <a href="Maquillaje.html">Maquillaje profesional sely</a> |
+    <a href="sellador.html">Sellador sely beauty</a>
+
 
  <meta charset="UTF-8"><center>
         <style>
