@@ -185,9 +185,6 @@ Por eso te ofrecemos una línea completa de productos de maquillaje de alta cali
         });
     </script>
      
-</body>
-</html>     
-</body>
-</html>>
+
  
 
